@@ -5,7 +5,7 @@ A real demo of Deep Learning project with preprocessing from development to prod
 ![project_workflow.png](documentation%2Fproject_workflow.png)
 
 ## Getting Started
-
+    
 Requirements, Download and install:
 - Pycharm: https://www.jetbrains.com/pycharm/
 - Python 3.10 : https://www.python.org/downloads/
